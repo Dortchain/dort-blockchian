@@ -10,12 +10,3 @@ based consensus which allows anyone to farm with commodity hardware
 * Support for light clients with fast, objective syncing
 * A growing community of farmers and developers around the world
 
-on your router or add a NAT (for IPv4 but not IPv6) and firewall rules to allow
-TCP port 8444 access to your peer.
-These methods tend to be router make/model specific.
-
-Most users should only install harvesters, farmers, plotter, full nodes, and wallets.
-Building Timelords and VDFs is for sophisticated users, in most environments.
-Dort Network and additional volunteers are running sufficient Timelords
-for consensus.
-
